@@ -6,7 +6,7 @@
 
 ## Output:
 
-![Flutter App Review](https://raw.githubusercontent.com/myvsparth/flutter_app_review/master/screenshots/1.png)
+![Flutter App Review](https://raw.githubusercontent.com/myvsparth/flutter_app_review/master/screenshots/1.jpg)
 
 ## Methods:
 1. AppReview.getAppID: This method will return the application id
